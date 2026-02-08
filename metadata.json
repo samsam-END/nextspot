@@ -1,0 +1,7 @@
+{
+  "name": "NextSpot",
+  "description": "A sophisticated AI chat interface , featuring streaming responses, multimodal image support, and real-time Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
